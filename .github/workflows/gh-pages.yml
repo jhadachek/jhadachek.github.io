@@ -15,7 +15,7 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
+      - name: Checkout Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
@@ -29,4 +29,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./jh_website/public
+          publish_dir: ./public
