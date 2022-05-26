@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richard J. Sexton | Jeffrey Hadachek</title>
-    <link>/author/richard-j.-sexton/</link>
-      <atom:link href="/author/richard-j.-sexton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jhadachek.github.io/author/richard-j.-sexton/</link>
+      <atom:link href="https://jhadachek.github.io/author/richard-j.-sexton/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard J. Sexton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jhadachek.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Richard J. Sexton</title>
-      <link>/author/richard-j.-sexton/</link>
+      <link>https://jhadachek.github.io/author/richard-j.-sexton/</link>
     </image>
     
     <item>
       <title>Market Structure and Resilience of Food Supply Chains Under Extreme Events</title>
-      <link>/publication/supplychains/</link>
+      <link>https://jhadachek.github.io/publication/supplychains/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/supplychains/</guid>
+      <guid>https://jhadachek.github.io/publication/supplychains/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.

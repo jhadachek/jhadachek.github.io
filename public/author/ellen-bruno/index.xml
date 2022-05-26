@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ellen Bruno | Jeffrey Hadachek</title>
-    <link>/author/ellen-bruno/</link>
-      <atom:link href="/author/ellen-bruno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jhadachek.github.io/author/ellen-bruno/</link>
+      <atom:link href="https://jhadachek.github.io/author/ellen-bruno/index.xml" rel="self" type="application/rss+xml" />
     <description>Ellen Bruno</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jhadachek.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ellen Bruno</title>
-      <link>/author/ellen-bruno/</link>
+      <link>https://jhadachek.github.io/author/ellen-bruno/</link>
     </image>
     
     <item>
       <title>Unintended Costs of Climate Change Adaptation: Agricultural Wells and Access to Drinking Water</title>
-      <link>/publication/wells/</link>
+      <link>https://jhadachek.github.io/publication/wells/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/wells/</guid>
+      <guid>https://jhadachek.github.io/publication/wells/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
