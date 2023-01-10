@@ -2,8 +2,8 @@
   "name": "Jeffrey Hadachek",
   "short_name": "Jeffrey Hadachek",
   "lang": "en-us",
-  "theme_color": "#355070",
-  "background_color": "#355070",
+  "theme_color": "#F7F7F7",
+  "background_color": "#F7F7F7",
   "icons": [{
     "src": "/images/icon_hu2b9d550591052f330a6833fa13bced51_16906874_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
