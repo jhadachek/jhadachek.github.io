@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Somerville | Jeffrey Hadachek</title>
+    <link>https://jhadachek.github.io/author/scott-somerville/</link>
+      <atom:link href="https://jhadachek.github.io/author/scott-somerville/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Somerville</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jhadachek.github.io/media/avatar.jpg</url>
+      <title>Scott Somerville</title>
+      <link>https://jhadachek.github.io/author/scott-somerville/</link>
+    </image>
+    
+    <item>
+      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
+      <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

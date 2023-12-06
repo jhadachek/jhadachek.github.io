@@ -5,7 +5,7 @@
     <link>https://jhadachek.github.io/publication-type/3/</link>
       <atom:link href="https://jhadachek.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>3</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
+      <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Costs of Climate Change Adaptation: Agricultural Wells and Access to Drinking Water</title>
       <link>https://jhadachek.github.io/publication/wells/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://jhadachek.github.io/publication/wells/</guid>
       <description></description>
     </item>
