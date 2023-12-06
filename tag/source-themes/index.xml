@@ -5,12 +5,20 @@
     <link>https://jhadachek.github.io/tag/source-themes/</link>
       <atom:link href="https://jhadachek.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Source Themes</title>
       <link>https://jhadachek.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Market Structure and Resilience of Food Supply Chains Under Extreme Events</title>
+      <link>https://jhadachek.github.io/publication/supplychains/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/supplychains/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
