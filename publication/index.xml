@@ -5,12 +5,20 @@
     <link>https://jhadachek.github.io/publication/</link>
       <atom:link href="https://jhadachek.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Publications</title>
       <link>https://jhadachek.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>External Costs of Climate Change Adaptation: Groundwater Depletion and Drinking Water</title>
+      <link>https://jhadachek.github.io/publication/wells/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/wells/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Market Structure and Resilience of Food Supply Chains Under Extreme Events</title>
@@ -25,14 +33,6 @@
       <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Costs of Climate Change Adaptation: Agricultural Wells and Access to Drinking Water</title>
-      <link>https://jhadachek.github.io/publication/wells/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/wells/</guid>
       <description></description>
     </item>
     
