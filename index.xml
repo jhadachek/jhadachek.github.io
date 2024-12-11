@@ -5,12 +5,36 @@
     <link>https://jhadachek.github.io/</link>
       <atom:link href="https://jhadachek.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeffrey Hadachek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Jeffrey Hadachek</title>
       <link>https://jhadachek.github.io/</link>
     </image>
+    
+    <item>
+      <title>Risk Management Externalities in Food Supply Chains</title>
+      <link>https://jhadachek.github.io/publication/riskexternalities/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/riskexternalities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
+      <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits of Avoiding Nitrates in Drinking Water</title>
+      <link>https://jhadachek.github.io/publication/nitrate/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/nitrate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>External Costs of Climate Change Adaptation: Groundwater Depletion and Drinking Water</title>
@@ -21,26 +45,18 @@
     </item>
     
     <item>
+      <title>The Economics of Food Supply Chain Resilience</title>
+      <link>https://jhadachek.github.io/publication/resilience_arre/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/resilience_arre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Market Structure and Resilience of Food Supply Chains Under Extreme Events</title>
       <link>https://jhadachek.github.io/publication/supplychains/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jhadachek.github.io/publication/supplychains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
-      <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Costs of Nitrate Pollution in Drinking Water</title>
-      <link>https://jhadachek.github.io/publication/nitrate/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/nitrate/</guid>
       <description></description>
     </item>
     

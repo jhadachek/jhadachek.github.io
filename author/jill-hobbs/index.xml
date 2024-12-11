@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jill Hobbs | Jeffrey Hadachek</title>
+    <link>https://jhadachek.github.io/author/jill-hobbs/</link>
+      <atom:link href="https://jhadachek.github.io/author/jill-hobbs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jill Hobbs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jhadachek.github.io/media/avatar.jpg</url>
+      <title>Jill Hobbs</title>
+      <link>https://jhadachek.github.io/author/jill-hobbs/</link>
+    </image>
+    
+    <item>
+      <title>The Economics of Food Supply Chain Resilience</title>
+      <link>https://jhadachek.github.io/publication/resilience_arre/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/resilience_arre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
