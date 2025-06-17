@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Stevens | Jeffrey Hadachek</title>
+    <link>https://jhadachek.github.io/author/andrew-stevens/</link>
+      <atom:link href="https://jhadachek.github.io/author/andrew-stevens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Stevens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jhadachek.github.io/media/avatar.jpg</url>
+      <title>Andrew Stevens</title>
+      <link>https://jhadachek.github.io/author/andrew-stevens/</link>
+    </image>
+    
+    <item>
+      <title>Can Farmer-Led Initiatives Reduce Nonpoint Source Pollution?</title>
+      <link>https://jhadachek.github.io/publication/plwg/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/plwg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

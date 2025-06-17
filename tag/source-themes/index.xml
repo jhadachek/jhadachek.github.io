@@ -5,12 +5,20 @@
     <link>https://jhadachek.github.io/tag/source-themes/</link>
       <atom:link href="https://jhadachek.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Source Themes</title>
       <link>https://jhadachek.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Can Farmer-Led Initiatives Reduce Nonpoint Source Pollution?</title>
+      <link>https://jhadachek.github.io/publication/plwg/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/plwg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benefits of Avoiding Nitrates in Drinking Water</title>
@@ -25,14 +33,6 @@
       <link>https://jhadachek.github.io/publication/wells/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://jhadachek.github.io/publication/wells/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Management Externalities in Food Supply Chains</title>
-      <link>https://jhadachek.github.io/publication/riskexternalities/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/riskexternalities/</guid>
       <description></description>
     </item>
     
