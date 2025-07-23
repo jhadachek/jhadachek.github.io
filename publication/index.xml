@@ -5,7 +5,7 @@
     <link>https://jhadachek.github.io/publication/</link>
       <atom:link href="https://jhadachek.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Risk Management Externalities in Agrifood Supply Chains</title>
-      <link>https://jhadachek.github.io/publication/riskexternalities/</link>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/riskexternalities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement</title>
       <link>https://jhadachek.github.io/publication/plwg/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://jhadachek.github.io/publication/plwg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Management Externalities in Agrifood Supply Chains</title>
+      <link>https://jhadachek.github.io/publication/riskexternalities/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/riskexternalities/</guid>
       <description></description>
     </item>
     
