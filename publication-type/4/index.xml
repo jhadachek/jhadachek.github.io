@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Jeffrey Hadachek</title>
+    <link>https://jhadachek.github.io/publication-type/4/</link>
+      <atom:link href="https://jhadachek.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jhadachek.github.io/media/avatar.jpg</url>
+      <title>4</title>
+      <link>https://jhadachek.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Agriculture&#39;s Contribution to the Wisconsin Economy</title>
+      <link>https://jhadachek.github.io/wisconsinag/economy/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/wisconsinag/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation Practice Economic Decision Tool</title>
+      <link>https://jhadachek.github.io/wisconsinag/conservation-decision-tool/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/wisconsinag/conservation-decision-tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
