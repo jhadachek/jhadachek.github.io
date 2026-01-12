@@ -5,12 +5,28 @@
     <link>https://jhadachek.github.io/tag/source-themes/</link>
       <atom:link href="https://jhadachek.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jhadachek.github.io/media/avatar.jpg</url>
       <title>Source Themes</title>
       <link>https://jhadachek.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>External Costs of Climate Adaptation in Common-Pool Groundwater Resources</title>
+      <link>https://jhadachek.github.io/publication/wells/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/wells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
+      <link>https://jhadachek.github.io/publication/nitrate_groundwater/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jhadachek.github.io/publication/nitrate_groundwater/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement</title>
@@ -45,14 +61,6 @@
     </item>
     
     <item>
-      <title>External Costs of Climate Adaptation in Common-Pool Groundwater Resources</title>
-      <link>https://jhadachek.github.io/publication/wells/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/wells/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Soil Health Economic Decision Tool</title>
       <link>https://jhadachek.github.io/wisconsinag/conservation-decision-tool/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
@@ -60,14 +68,6 @@
       <description>&lt;p&gt;Soil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the
 economics of practice adoption and allows users to adapt inputs to their unique context. Click on the Project link above to explore for yourself.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California.</title>
-      <link>https://jhadachek.github.io/publication/nitrates_groundwater/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jhadachek.github.io/publication/nitrates_groundwater/</guid>
-      <description></description>
     </item>
     
     <item>
