@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jhadachek.github.io/publication-type/3/</loc>
+    <loc>https://jhadachek.github.io/publication-type/2/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jhadachek.github.io/authors/</loc>
@@ -38,9 +38,6 @@
     <loc>https://jhadachek.github.io/tags/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jhadachek.github.io/publication-type/2/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jhadachek.github.io/publication/nitrate_groundwater/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,6 +46,9 @@
   </url><url>
     <loc>https://jhadachek.github.io/author/scott-somerville/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jhadachek.github.io/publication-type/3/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jhadachek.github.io/author/andrew-stevens/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
