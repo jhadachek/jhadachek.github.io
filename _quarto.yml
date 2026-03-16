@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - media/
+    - google2df687dea414a639.html
 
 website:
   title: "Jeffrey Hadachek"
