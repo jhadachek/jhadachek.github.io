@@ -39,7 +39,7 @@ I am an Assistant Professor in the Ag and Applied Economics Department at the Un
 ::: {.g-col-12 .g-col-md-7}
 **Education**
 
-🎓 PhD in Ag and Resource Economics, 2023 — UC Davis
+🎓 PhD in Ag and Resource Economics, 2023 — UC Davis\
 🎓 BS in Agricultural Economics, 2018 — Kansas State University
 :::
 :::

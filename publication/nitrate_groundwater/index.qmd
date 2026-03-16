@@ -23,9 +23,6 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-::: {.pub-abstract}
-{{< meta abstract >}}
-:::
 
 **Published in:** *Journal of Environmental Economics and Management*, 2026
 

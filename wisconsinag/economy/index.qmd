@@ -1,0 +1,17 @@
+---
+title: "Agriculture's Contribution to the Wisconsin Economy"
+date: 2025-04-15
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+  - name: Steve Deller
+page-layout: article
+---
+
+[{{< fa arrow-left >}} Back to Extension/Outreach](/wisconsinag/)
+
+Wisconsin agriculture and food processing industries contribute $116 billion to the Wisconsin economy.
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](https://aae.wisc.edu/wp-content/uploads/2024/11/The-Contribution-of-Agriculture-to-the-Wisconsin-Economy.pdf){.btn .btn-primary target="_blank"}
+:::

@@ -23,9 +23,6 @@ abstract: |
 
 **Status:** *Revise & Resubmit at American Journal of Agricultural Economics* (July 2025)
 
-::: {.pub-abstract}
-{{< meta abstract >}}
-:::
 
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/plwg.pdf){.btn .btn-primary target="_blank"}

@@ -23,9 +23,6 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-::: {.pub-abstract}
-{{< meta abstract >}}
-:::
 
 **Published in:** *American Journal of Agricultural Economics*, 2024
 

@@ -24,9 +24,6 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-::: {.pub-abstract}
-{{< meta abstract >}}
-:::
 
 **Published in:** *Journal of Public Economics*, January 2026
 

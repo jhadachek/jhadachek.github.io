@@ -21,9 +21,6 @@ abstract: |
 
 **Status:** *Working paper* (May 2025)
 
-::: {.pub-abstract}
-{{< meta abstract >}}
-:::
 
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/nitrates.pdf){.btn .btn-primary target="_blank"}

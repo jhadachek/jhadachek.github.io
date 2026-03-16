@@ -1,0 +1,16 @@
+---
+title: "Soil Health Economic Decision Tool"
+date: 2025-04-15
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+page-layout: article
+---
+
+[{{< fa arrow-left >}} Back to Extension/Outreach](/wisconsinag/)
+
+Soil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.
+
+::: {.pub-links}
+[{{< fa arrow-up-right-from-square >}} Open Tool](https://jhadachek.shinyapps.io/CoverCropDecisionTool/){.btn .btn-primary target="_blank"}
+:::
