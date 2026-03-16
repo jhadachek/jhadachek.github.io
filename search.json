@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "wisconsinag/conservation-decision-tool/index.html",
-    "href": "wisconsinag/conservation-decision-tool/index.html",
-    "title": "Soil Health Economic Decision Tool",
-    "section": "",
-    "text": "Back to Extension/Outreach\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n\n Open Tool"
-  },
-  {
     "objectID": "wisconsinag/index.html",
     "href": "wisconsinag/index.html",
     "title": "Wisconsin Agriculture",
@@ -21,32 +14,39 @@
     "text": "Agriculture’s Contribution to the Wisconsin Economy\n\nWisconsin agriculture and food processing industries contribute $116 billion to the Wisconsin economy.\n Learn more\n\n\n\nSoil Health Economic Decision Tool\n\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n Learn more"
   },
   {
-    "objectID": "publication/nitrate/index.html",
-    "href": "publication/nitrate/index.html",
-    "title": "Benefits of Avoiding Nitrates in Drinking Water",
+    "objectID": "wisconsinag/conservation-decision-tool/index.html",
+    "href": "wisconsinag/conservation-decision-tool/index.html",
+    "title": "Soil Health Economic Decision Tool",
     "section": "",
-    "text": "Back to Research\nStatus: Working paper (May 2025)\n\n PDF\n\n\n\n\nCitationBibTeX citation:@article{hadachek2025,\n  author = {Hadachek, Jeffrey},\n  title = {Benefits of {Avoiding} {Nitrates} in {Drinking} {Water}},\n  date = {2025-05-01},\n  url = {https://jhadachek.github.io/publication/nitrate/},\n  langid = {en},\n  abstract = {Nitrate contamination of drinking water is a widespread\n    concern and threatens human health. The magnitude of the health\n    consequences depends on individuals’ ability to avoid exposure. This\n    paper uses an event-study framework to uncover avoidance behavior\n    and infant mortality outcomes following public notifications\n    required by the Safe Drinking Water Act. Using store-level scanner\n    data, I estimate that consumers spend \\$4.5 million annually on\n    bottled water to avoid nitrate-contaminated drinking water. This\n    protective behavior leads to 20 avoided infant deaths per year or\n    \\$223 million in monetized benefits. These results underscore the\n    benefits and role of environmental information policy in inducing\n    avoidance of environmental hazards.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey. 2025. “Benefits of Avoiding Nitrates in\nDrinking Water,” May. https://jhadachek.github.io/publication/nitrate/."
-  },
-  {
-    "objectID": "publication/wells/index.html",
-    "href": "publication/wells/index.html",
-    "title": "External Costs of Climate Adaptation in Common-Pool Groundwater Resources",
-    "section": "",
-    "text": "Back to Research\nPublished in: Journal of Public Economics, January 2026\n\n PDF DOI\n\n\n\n\nCitationBibTeX citation:@article{hadachek2026,\n  author = {Hadachek, Jeffrey and Bruno, Ellen and Hagerty, Nick and\n    Jessoe, Katrina},\n  title = {External {Costs} of {Climate} {Adaptation} in {Common-Pool}\n    {Groundwater} {Resources}},\n  journal = {Journal of Public Economics},\n  date = {2026-01-09},\n  url = {https://jhadachek.github.io/publication/wells/},\n  doi = {10.1016/j.jpubeco.2026.105602},\n  langid = {en},\n  abstract = {Adaptation to environmental change can exacerbate existing\n    externalities in common-pool natural resources. We document one such\n    case: Farmers in California respond to heat and drought by\n    extracting more groundwater, lowering the water table, and harming\n    access to drinking water for nearby residents. Using yearly\n    variation we show that surface water scarcity and heat increase\n    agricultural well construction, groundwater depletion, and domestic\n    well failures, and that well construction accounts for a large share\n    of the latter effects. In our setting, adaptation also exacerbates\n    inequality: Effects on domestic well failures are concentrated in\n    low-income and Latino communities.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, Ellen Bruno, Nick Hagerty, and Katrina Jessoe. 2026.\n“External Costs of Climate Adaptation in Common-Pool Groundwater\nResources.” Journal of Public Economics, January. https://doi.org/10.1016/j.jpubeco.2026.105602."
+    "text": "Back to Extension/Outreach\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n\n Open Tool"
   },
   {
     "objectID": "publication/supplychains/index.html",
     "href": "publication/supplychains/index.html",
     "title": "Market Structure and Resilience of Food Supply Chains Under Extreme Events",
     "section": "",
-    "text": "Back to Research\nPublished in: American Journal of Agricultural Economics, 2024\n\n PDF  Code DOI\n\n\n\n\nCitationBibTeX citation:@article{hadachek2024,\n  author = {Hadachek, Jeffrey and Ma, Meilin and J. Sexton, Richard},\n  title = {Market {Structure} and {Resilience} of {Food} {Supply}\n    {Chains} {Under} {Extreme} {Events}},\n  journal = {American Journal of Agricultural Economics},\n  date = {2024-01-27},\n  url = {https://jhadachek.github.io/publication/supplychains/},\n  doi = {10.1111/ajae.12393},\n  langid = {en},\n  abstract = {Recent extreme events and the disruptions they caused have\n    made food supply chain resilience a key topic for researchers and\n    policymakers. This paper provides input into these discussions by\n    evaluating the efficiency and resilience properties of the leading\n    policy proposals. We develop a conceptual model of a prototype\n    agricultural supply chain, parameterize the model based on results\n    from the empirical literature, and conduct simulations to assess the\n    impacts on resilience and economic welfare of four key policy\n    proposals: (i) intensified antitrust enforcement to improve market\n    competition, (ii) subsidization of entry of additional processing\n    capacity, (iii) prevention of price spikes through\n    anti-price-gouging laws, and (iv) diversification of production and\n    processing across multiple regions. Results show that some of the\n    policies have potential to improve supply-chain resilience, but\n    their impacts depend importantly on the existing market structure,\n    and resilience gains often come at the cost of reduced efficiency\n    and market surplus.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, Meilin Ma, and Richard J. Sexton. 2024. “Market\nStructure and Resilience of Food Supply Chains Under Extreme\nEvents.” American Journal of Agricultural Economics,\nJanuary. https://doi.org/10.1111/ajae.12393."
+    "text": "Back to Research\nPublished in: American Journal of Agricultural Economics, 2024\n\n PDF  Code DOI"
   },
   {
-    "objectID": "publication/riskexternalities/index.html",
-    "href": "publication/riskexternalities/index.html",
-    "title": "Risk Management Externalities in Agrifood Supply Chains",
+    "objectID": "publication/resilience_arre/index.html",
+    "href": "publication/resilience_arre/index.html",
+    "title": "The Economics of Food Supply Chain Resilience",
     "section": "",
-    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF\n\n\n\n\nCitationBibTeX citation:@article{hadachek2025,\n  author = {Hadachek, Jeffrey and Ma, Meilin},\n  title = {Risk {Management} {Externalities} in {Agrifood} {Supply}\n    {Chains}},\n  date = {2025-07-01},\n  url = {https://jhadachek.github.io/publication/riskexternalities/},\n  langid = {en},\n  abstract = {Firms may under- or over-invest in risk management from\n    the social planner’s perspective, resulting in a negative\n    externality on other economic agents in the supply chain. The\n    externality of risk management provides justification for policy\n    intervention and is particularly relevant for agrifood supply chains\n    that constantly experience shocks and play a primary role in\n    preventing major social losses from food insecurity. We build a\n    theoretical model to characterize such externalities in US food\n    supply chains where intermediary firms choose the quantity of output\n    and the investment in managing risks. The model allows for flexible\n    market structures and interdependence of risk management among\n    firms. Risk interdependence captures the unique feature of biotic\n    hazards (e.g., animal and plant diseases) in agrifood supply chains,\n    where the effectiveness of a firm’s risk management depends on peer\n    firms’ behavior. We offer novel insights on the role of risk\n    interdependence in driving the externality in risk management under\n    different market structures. We show that private firms invest less\n    than the socially optimal level under perfect competition, but risk\n    interdependence and market power introduce complex incentives in\n    risk-reducing investment that shape the externality. The critical\n    implications for the social efficiency of policy interventions are\n    demonstrated via simulations based on the model and empirical\n    literature on biotic hazards in agrifood markets.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, and Meilin Ma. 2025. “Risk Management\nExternalities in Agrifood Supply Chains,” July. https://jhadachek.github.io/publication/riskexternalities/."
+    "text": "Back to Research\nPublished in: Annual Review of Resource Economics, 2024\n\nDOI"
+  },
+  {
+    "objectID": "publication/nitrate_groundwater/index.html",
+    "href": "publication/nitrate_groundwater/index.html",
+    "title": "Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California",
+    "section": "",
+    "text": "Back to Research\nPublished in: Journal of Environmental Economics and Management, 2026\n\n PDF DOI"
+  },
+  {
+    "objectID": "publication/feedgrains/index.html",
+    "href": "publication/feedgrains/index.html",
+    "title": "Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets",
+    "section": "",
+    "text": "Back to Research\nPublished by: USDA Economic Research Service, 2022\n\n PDF"
   },
   {
     "objectID": "index.html",
@@ -91,32 +91,32 @@
     "text": "Contact\n\n\n📧 hadachek@wisc.edu\n📞 785 527 1107\n📍 329 Henry Taylor Hall, Madison, WI 53706\n🐦 @hadachek"
   },
   {
+    "objectID": "publication/nitrate/index.html",
+    "href": "publication/nitrate/index.html",
+    "title": "Benefits of Avoiding Nitrates in Drinking Water",
+    "section": "",
+    "text": "Back to Research\nStatus: Working paper (May 2025)\n\n PDF"
+  },
+  {
     "objectID": "publication/plwg/index.html",
     "href": "publication/plwg/index.html",
     "title": "Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement",
     "section": "",
-    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF\n\n\n\n\nCitationBibTeX citation:@article{hadachek2025,\n  author = {Hadachek, Jeffrey and Karwowski, Nicole and Stevens, Andrew},\n  title = {Farmer {Led} {Conservation} {Programs} and {Nonpoint}\n    {Source} {Pollution} {Abatement}},\n  date = {2025-07-01},\n  url = {https://jhadachek.github.io/publication/plwg/},\n  langid = {en},\n  abstract = {Nonpoint source pollution from agriculture is the leading\n    cause of nutrient pollution in the US. This paper addresses whether\n    localized, farmer-led programs can cost-effectively reduce nonpoint\n    source pollution by increasing the adoption of agricultural\n    conservation practices. We study this in the context of an\n    innovative program in Wisconsin that incentivizes farmers to take\n    collective leadership of improving water quality in their local\n    watersheds. Using a shift-share instrumental variables design, we\n    find that a 10 percentage point increase in farmer participation in\n    these programs leads to a 0.03 mg/L reduction (14\\%) in ambient\n    phosphorus concentrations in local streams and rivers. We also show\n    that this change causes an increase in the adoption of cover crops,\n    conservation tillage, and more diverse crop rotations. Importantly,\n    this localized approach achieves water quality and conservation\n    improvements at a substantially lower cost than existing federal\n    subsidy programs, demonstrating the potential for bottom-up\n    approaches to address nonpoint source pollution in other contexts.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, Nicole Karwowski, and Andrew Stevens. 2025.\n“Farmer Led Conservation Programs and Nonpoint Source Pollution\nAbatement,” July. https://jhadachek.github.io/publication/plwg/."
+    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF"
   },
   {
-    "objectID": "publication/resilience_arre/index.html",
-    "href": "publication/resilience_arre/index.html",
-    "title": "The Economics of Food Supply Chain Resilience",
+    "objectID": "publication/riskexternalities/index.html",
+    "href": "publication/riskexternalities/index.html",
+    "title": "Risk Management Externalities in Agrifood Supply Chains",
     "section": "",
-    "text": "Back to Research\nPublished in: Annual Review of Resource Economics, 2024\n\nDOI\n\n\n\n\nCitationBibTeX citation:@article{hadachek2024,\n  author = {Hadachek, Jeffrey and Hobbs, Jill},\n  title = {The {Economics} of {Food} {Supply} {Chain} {Resilience}},\n  journal = {Annual Review of Resource Economics},\n  date = {2024-01-01},\n  url = {https://jhadachek.github.io/publication/resilience_arre/},\n  doi = {10.1146/annurev-resource-100423-095119},\n  langid = {en},\n  abstract = {Food supply chain resilience has become a priority for\n    policymakers in recent years. Prompted by several systemic\n    disruptions and the increased likelihood of future shocks,\n    significant attention and public financial investment have been\n    devoted to preparing supply chains to be more able to absorb shocks\n    and more nimbly respond in the future. Food and agricultural supply\n    chains have been particularly scrutinized due to widespread\n    shortages and food price inflation of key staples in recent years.\n    Varied perspectives have emerged about the factors that contribute\n    to the resiliency of food supply chains and the interventions that\n    will be most effective. This article reviews the perspectives on\n    food supply chain resilience generally. Furthermore, we attempt to\n    synthesize the methodologies that have been used to study resilience\n    and offer some guidance for economists studying the topic moving\n    forward.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, and Jill Hobbs. 2024. “The Economics of Food\nSupply Chain Resilience.” Annual Review of Resource\nEconomics, January. https://doi.org/10.1146/annurev-resource-100423-095119."
+    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF"
   },
   {
-    "objectID": "publication/nitrate_groundwater/index.html",
-    "href": "publication/nitrate_groundwater/index.html",
-    "title": "Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California",
+    "objectID": "publication/wells/index.html",
+    "href": "publication/wells/index.html",
+    "title": "External Costs of Climate Adaptation in Common-Pool Groundwater Resources",
     "section": "",
-    "text": "Back to Research\nPublished in: Journal of Environmental Economics and Management, 2026\n\n PDF DOI\n\n\n\n\nCitationBibTeX citation:@article{hadachek2026,\n  author = {Hadachek, Jeffrey and Merel, Pierre and Somerville, Scott},\n  title = {Land {Use} and {Nitrate} {Concentrations} in {Groundwater:}\n    {Evidence} from {Groundwater} {Wells} in {California}},\n  journal = {Journal of Environmental Economics and Management},\n  date = {2026-01-01},\n  url = {https://jhadachek.github.io/publication/nitrate_groundwater/},\n  doi = {10.1016/j.jeem.2026.103284},\n  langid = {en},\n  abstract = {Nitrate pollution threatens human health and ecosystems in\n    many regions of the world. Although scientists agree that nitrogen\n    compounds from human activity, notably agriculture, enter the\n    groundwater system, empirical estimates of the impacts of land use\n    on nitrate concentrations in well water are still lacking. We\n    provide evidence of such impacts by combining nitrate concentration\n    measurements from about 6,000 groundwater wells with a data set of\n    remotely sensed land uses for California over the period 2007–2023.\n    Results show that a 10 percentage point increase in the share of\n    land used to grow high-nitrogen crops within 500 meters of a well\n    relative to undeveloped land is associated with a 12\\% increase in\n    nitrate concentrations, while a 10 percentage point increase in the\n    share of land used for low-intensity urban development is associated\n    with a 10\\% increase. Local dairy cattle populations also\n    meaningfully contribute to nitrate pollution. However, conditioning\n    on initial nitrate measurements, we find limited evidence that human\n    activity affects nitrate concentrations a decade later.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, Pierre Merel, and Scott Somerville. 2026. “Land\nUse and Nitrate Concentrations in Groundwater: Evidence from Groundwater\nWells in California.” Journal of Environmental Economics and\nManagement, January. https://doi.org/10.1016/j.jeem.2026.103284."
-  },
-  {
-    "objectID": "publication/feedgrains/index.html",
-    "href": "publication/feedgrains/index.html",
-    "title": "Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets",
-    "section": "",
-    "text": "Back to Research\nPublished by: USDA Economic Research Service, 2022\n\n PDF\n\n\n\n\nCitationBibTeX citation:@report{hadachek2022,\n  author = {Hadachek, Jeffrey and Saitone, Tina and J. Sexton, Richard\n    and Raszap Skorbiansky, Sharon and Thornsbury, Suzanne and Effland,\n    Anne},\n  publisher = {USDA Economic Research Service},\n  title = {Organic {Feed} {Grains} and {Livestock:} {Factors} {That}\n    {Influence} {Outcomes} in {Thinly} {Traded} {Markets}},\n  date = {2022-01-01},\n  url = {https://jhadachek.github.io/publication/feedgrains/},\n  langid = {en},\n  abstract = {Even as organic products have become more widely\n    available, most organic growers in the United States still\n    participate in niche markets, with few buyers and sellers and few\n    trades being executed at a given area or point in time, relative to\n    conventional segments of the market. Despite an increase in both\n    organic production and available information to support decision\n    making, growers continue to face challenges related to the thinness\n    of organic markets. This report examines organic dairy and beef\n    markets, including major feed inputs, to assess the current\n    competitive status of these markets. Specifically, in each market,\n    this report considers factors fundamental to determining whether\n    buyers and sellers can form long-term, mutually beneficial\n    buyer/seller relationships that may limit thin market challenges\n    that might otherwise arise.}\n}\nFor attribution, please cite this work as:\nHadachek, Jeffrey, Tina Saitone, Richard J. Sexton, Sharon Raszap\nSkorbiansky, Suzanne Thornsbury, and Anne Effland. 2022. “Organic\nFeed Grains and Livestock: Factors That Influence Outcomes in Thinly\nTraded Markets.” USDA Economic Research Service. https://jhadachek.github.io/publication/feedgrains/."
+    "text": "Back to Research\nPublished in: Journal of Public Economics, January 2026\n\n PDF DOI"
   },
   {
     "objectID": "wisconsinag/economy/index.html",
