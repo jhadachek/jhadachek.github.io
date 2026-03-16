@@ -10,10 +10,6 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-3 style="text-align:center;"}
 ![](media/avatar.jpeg){.profile-photo}
 
-**Jeffrey Hadachek**
-Assistant Professor
-[University of Wisconsin-Madison](https://aae.wisc.edu/faculty/hadachek/){target="_blank"}
-
 ::: {.social-icons}
 <a href="mailto:hadachek@wisc.edu" title="Email"><i class="bi bi-envelope-fill"></i></a>
 <a href="https://twitter.com/hadachek" target="_blank" title="Twitter"><i class="bi bi-twitter"></i></a>
@@ -26,7 +22,7 @@ Assistant Professor
 
 ## Biography
 
-I am an Assistant Professor in the Ag and Applied Economics Department at the University of Wisconsin-Madison. I research issues at the intersection of agricultural and environmental economics. To date, my research focuses on water-related externalities from agricultural production and market power in the food supply chain.
+I am an Assistant Professor of Agricultural and Applied Economics at the University of Wisconsin-Madison. My research examines the efficiency and distributional consequences of agricultural production decisions, with a focus on water-related externalities and food supply chain organization. I have active projects on groundwater externalities from climate adaptation, the welfare effects of nitrate contamination in drinking water, nonpoint source pollution from crop production, and risk management incentives in agrifood supply chains.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-5}
