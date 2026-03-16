@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "wisconsinag/conservation-decision-tool/index.html",
-    "href": "wisconsinag/conservation-decision-tool/index.html",
-    "title": "Soil Health Economic Decision Tool",
-    "section": "",
-    "text": "Back to Extension/Outreach\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n\n Open Tool"
-  },
-  {
     "objectID": "wisconsinag/index.html",
     "href": "wisconsinag/index.html",
     "title": "Wisconsin Agriculture",
@@ -21,18 +14,11 @@
     "text": "Agriculture’s Contribution to the Wisconsin Economy\n\nWisconsin agriculture and food processing industries contribute $116 billion to the Wisconsin economy.\n Learn more\n\n\n\nSoil Health Economic Decision Tool\n\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n Learn more"
   },
   {
-    "objectID": "publication/nitrate/index.html",
-    "href": "publication/nitrate/index.html",
-    "title": "Benefits of Avoiding Nitrates in Drinking Water",
+    "objectID": "wisconsinag/conservation-decision-tool/index.html",
+    "href": "wisconsinag/conservation-decision-tool/index.html",
+    "title": "Soil Health Economic Decision Tool",
     "section": "",
-    "text": "Back to Research\nStatus: Working paper (May 2025)\n\n PDF"
-  },
-  {
-    "objectID": "publication/wells/index.html",
-    "href": "publication/wells/index.html",
-    "title": "External Costs of Climate Adaptation in Common-Pool Groundwater Resources",
-    "section": "",
-    "text": "Back to Research\nPublished in: Journal of Public Economics, January 2026\n\n PDF DOI"
+    "text": "Back to Extension/Outreach\nSoil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.\n\n Open Tool"
   },
   {
     "objectID": "publication/supplychains/index.html",
@@ -42,11 +28,25 @@
     "text": "Back to Research\nPublished in: American Journal of Agricultural Economics, 2024\n\n PDF  Code DOI"
   },
   {
-    "objectID": "publication/riskexternalities/index.html",
-    "href": "publication/riskexternalities/index.html",
-    "title": "Risk Management Externalities in Agrifood Supply Chains",
+    "objectID": "publication/resilience_arre/index.html",
+    "href": "publication/resilience_arre/index.html",
+    "title": "The Economics of Food Supply Chain Resilience",
     "section": "",
-    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF"
+    "text": "Back to Research\nPublished in: Annual Review of Resource Economics, 2024\n\nDOI"
+  },
+  {
+    "objectID": "publication/nitrate_groundwater/index.html",
+    "href": "publication/nitrate_groundwater/index.html",
+    "title": "Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California",
+    "section": "",
+    "text": "Back to Research\nPublished in: Journal of Environmental Economics and Management, 2026\n\n PDF DOI"
+  },
+  {
+    "objectID": "publication/feedgrains/index.html",
+    "href": "publication/feedgrains/index.html",
+    "title": "Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets",
+    "section": "",
+    "text": "Back to Research\nPublished by: USDA Economic Research Service, 2022\n\n PDF"
   },
   {
     "objectID": "index.html",
@@ -91,6 +91,13 @@
     "text": "Contact\n\n\n📧 hadachek@wisc.edu\n📞 785 527 1107\n📍 329 Henry Taylor Hall, Madison, WI 53706\n🐦 @hadachek"
   },
   {
+    "objectID": "publication/nitrate/index.html",
+    "href": "publication/nitrate/index.html",
+    "title": "Benefits of Avoiding Nitrates in Drinking Water",
+    "section": "",
+    "text": "Back to Research\nStatus: Working paper (May 2025)\n\n PDF"
+  },
+  {
     "objectID": "publication/plwg/index.html",
     "href": "publication/plwg/index.html",
     "title": "Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement",
@@ -98,25 +105,18 @@
     "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF"
   },
   {
-    "objectID": "publication/resilience_arre/index.html",
-    "href": "publication/resilience_arre/index.html",
-    "title": "The Economics of Food Supply Chain Resilience",
+    "objectID": "publication/riskexternalities/index.html",
+    "href": "publication/riskexternalities/index.html",
+    "title": "Risk Management Externalities in Agrifood Supply Chains",
     "section": "",
-    "text": "Back to Research\nPublished in: Annual Review of Resource Economics, 2024\n\nDOI"
+    "text": "Back to Research\nStatus: Revise & Resubmit at American Journal of Agricultural Economics (July 2025)\n\n PDF"
   },
   {
-    "objectID": "publication/nitrate_groundwater/index.html",
-    "href": "publication/nitrate_groundwater/index.html",
-    "title": "Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California",
+    "objectID": "publication/wells/index.html",
+    "href": "publication/wells/index.html",
+    "title": "External Costs of Climate Adaptation in Common-Pool Groundwater Resources",
     "section": "",
-    "text": "Back to Research\nPublished in: Journal of Environmental Economics and Management, 2026\n\n PDF DOI"
-  },
-  {
-    "objectID": "publication/feedgrains/index.html",
-    "href": "publication/feedgrains/index.html",
-    "title": "Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets",
-    "section": "",
-    "text": "Back to Research\nPublished by: USDA Economic Research Service, 2022\n\n PDF"
+    "text": "Back to Research\nPublished in: Journal of Public Economics, January 2026\n\n PDF DOI"
   },
   {
     "objectID": "wisconsinag/economy/index.html",
