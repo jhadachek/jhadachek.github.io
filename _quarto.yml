@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - media/
 
 website:
   title: "Jeffrey Hadachek"
@@ -17,8 +19,7 @@ website:
       - text: "Research"
         href: /#research
       - text: "Extension/Outreach"
-        href: /wisconsinag/index.html
-        target: _blank
+        href: /wisconsinag/
       - text: "Contact"
         href: /#contact
     right:
@@ -34,9 +35,9 @@ website:
       Jeffrey Hadachek · [hadachek@wisc.edu](mailto:hadachek@wisc.edu)
 
   open-graph:
-    image: media/avatar.jpg
+    image: media/avatar.jpeg
   twitter-card:
-    image: media/avatar.jpg
+    image: media/avatar.jpeg
     creator: "@hadachek"
 
 format:

@@ -1,0 +1,25 @@
+---
+title: "Wisconsin Agriculture"
+page-layout: full
+title-block-banner: false
+---
+
+## Extension & Outreach
+
+::: {.pub-item}
+::: {.pub-title}
+Agriculture's Contribution to the Wisconsin Economy
+:::
+Wisconsin agriculture and food processing industries contribute $116 billion to the Wisconsin economy.
+
+[{{< fa arrow-right >}} Learn more](economy/){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Soil Health Economic Decision Tool
+:::
+Soil health practices are costly investments with complicated and uncertain payoffs. This decision-support tool helps farmers and conservation professionals understand the economics of practice adoption and allows users to adapt inputs to their unique context.
+
+[{{< fa arrow-right >}} Learn more](conservation-decision-tool/){.btn .btn-sm .btn-outline-primary}
+:::

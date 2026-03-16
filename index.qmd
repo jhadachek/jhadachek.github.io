@@ -8,7 +8,7 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-3 style="text-align:center;"}
-![Jeffrey Hadachek](media/avatar.jpg){.profile-photo}
+![](media/avatar.jpeg){.profile-photo}
 
 **Jeffrey Hadachek**
 Assistant Professor
