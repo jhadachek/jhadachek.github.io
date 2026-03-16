@@ -48,3 +48,4 @@ format:
     smooth-scroll: true
     link-external-newwindow: false
     google-scholar: true
+    appendix-cite-as: false
