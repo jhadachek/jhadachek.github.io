@@ -1,0 +1,35 @@
+---
+title: "Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California"
+date: 2026-01-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Pierre Merel
+  - name: Scott Somerville
+categories:
+  - Water Economics
+  - Environmental Economics
+  - Agricultural Pollution
+citation:
+  type: article-journal
+  container-title: "Journal of Environmental Economics and Management"
+  doi: "10.1016/j.jeem.2026.103284"
+  url: https://jhadachek.github.io/publication/nitrate_groundwater/
+  pdf-url: https://jhadachek.github.io/files/Nitrate_in_groundwater.pdf
+abstract: |
+  Nitrate pollution threatens human health and ecosystems in many regions of the world. Although scientists agree that nitrogen compounds from human activity, notably agriculture, enter the groundwater system, empirical estimates of the impacts of land use on nitrate concentrations in well water are still lacking. We provide evidence of such impacts by combining nitrate concentration measurements from about 6,000 groundwater wells with a data set of remotely sensed land uses for California over the period 2007–2023. Results show that a 10 percentage point increase in the share of land used to grow high-nitrogen crops within 500 meters of a well relative to undeveloped land is associated with a 12% increase in nitrate concentrations, while a 10 percentage point increase in the share of land used for low-intensity urban development is associated with a 10% increase. Local dairy cattle populations also meaningfully contribute to nitrate pollution. However, conditioning on initial nitrate measurements, we find limited evidence that human activity affects nitrate concentrations a decade later.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+**Published in:** *Journal of Environmental Economics and Management*, 2026
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/Nitrate_in_groundwater.pdf){.btn .btn-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jeem.2026.103284){.btn .btn-outline-primary target="_blank"}
+:::

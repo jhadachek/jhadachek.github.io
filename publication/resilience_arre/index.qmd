@@ -1,0 +1,31 @@
+---
+title: "The Economics of Food Supply Chain Resilience"
+date: 2024-01-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Jill Hobbs
+categories:
+  - Food Supply Chains
+  - Industrial Organization
+citation:
+  type: article-journal
+  container-title: "Annual Review of Resource Economics"
+  doi: "10.1146/annurev-resource-100423-095119"
+  url: https://jhadachek.github.io/publication/resilience_arre/
+abstract: |
+  Food supply chain resilience has become a priority for policymakers in recent years. Prompted by several systemic disruptions and the increased likelihood of future shocks, significant attention and public financial investment have been devoted to preparing supply chains to be more able to absorb shocks and more nimbly respond in the future. Food and agricultural supply chains have been particularly scrutinized due to widespread shortages and food price inflation of key staples in recent years. Varied perspectives have emerged about the factors that contribute to the resiliency of food supply chains and the interventions that will be most effective. This article reviews the perspectives on food supply chain resilience generally. Furthermore, we attempt to synthesize the methodologies that have been used to study resilience and offer some guidance for economists studying the topic moving forward.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+**Published in:** *Annual Review of Resource Economics*, 2024
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1146/annurev-resource-100423-095119){.btn .btn-primary target="_blank"}
+:::

@@ -1,0 +1,36 @@
+---
+title: "Market Structure and Resilience of Food Supply Chains Under Extreme Events"
+date: 2024-01-27
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Meilin Ma
+  - name: Richard J. Sexton
+categories:
+  - Food Supply Chains
+  - Industrial Organization
+  - Market Structure
+citation:
+  type: article-journal
+  container-title: "American Journal of Agricultural Economics"
+  doi: "10.1111/ajae.12393"
+  url: https://jhadachek.github.io/publication/supplychains/
+  pdf-url: https://jhadachek.github.io/files/Supply%20Chains/Supply_Chain_Resilience.pdf
+abstract: |
+  Recent extreme events and the disruptions they caused have made food supply chain resilience a key topic for researchers and policymakers. This paper provides input into these discussions by evaluating the efficiency and resilience properties of the leading policy proposals. We develop a conceptual model of a prototype agricultural supply chain, parameterize the model based on results from the empirical literature, and conduct simulations to assess the impacts on resilience and economic welfare of four key policy proposals: (i) intensified antitrust enforcement to improve market competition, (ii) subsidization of entry of additional processing capacity, (iii) prevention of price spikes through anti-price-gouging laws, and (iv) diversification of production and processing across multiple regions. Results show that some of the policies have potential to improve supply-chain resilience, but their impacts depend importantly on the existing market structure, and resilience gains often come at the cost of reduced efficiency and market surplus.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+**Published in:** *American Journal of Agricultural Economics*, 2024
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/Supply%20Chains/Supply_Chain_Resilience.pdf){.btn .btn-primary target="_blank"}
+[{{< fa code >}} Code](/files/Supply%20Chains/AJAE_Code.zip){.btn .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1111/ajae.12393){.btn .btn-outline-primary target="_blank"}
+:::

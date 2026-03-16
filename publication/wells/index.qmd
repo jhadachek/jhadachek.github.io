@@ -1,0 +1,36 @@
+---
+title: "External Costs of Climate Adaptation in Common-Pool Groundwater Resources"
+date: 2026-01-09
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Ellen Bruno
+  - name: Nick Hagerty
+  - name: Katrina Jessoe
+categories:
+  - Water Economics
+  - Environmental Economics
+  - Climate Adaptation
+citation:
+  type: article-journal
+  container-title: "Journal of Public Economics"
+  doi: "10.1016/j.jpubeco.2026.105602"
+  url: https://jhadachek.github.io/publication/wells/
+  pdf-url: https://jhadachek.github.io/files/wells.pdf
+abstract: |
+  Adaptation to environmental change can exacerbate existing externalities in common-pool natural resources. We document one such case: Farmers in California respond to heat and drought by extracting more groundwater, lowering the water table, and harming access to drinking water for nearby residents. Using yearly variation we show that surface water scarcity and heat increase agricultural well construction, groundwater depletion, and domestic well failures, and that well construction accounts for a large share of the latter effects. In our setting, adaptation also exacerbates inequality: Effects on domestic well failures are concentrated in low-income and Latino communities.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+**Published in:** *Journal of Public Economics*, January 2026
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/wells.pdf){.btn .btn-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jpubeco.2026.105602){.btn .btn-outline-primary target="_blank"}
+:::

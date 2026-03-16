@@ -1,0 +1,32 @@
+---
+title: "Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement"
+date: 2025-07-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Nicole Karwowski
+  - name: Andrew Stevens
+categories:
+  - Water Economics
+  - Agricultural Policy
+  - Conservation
+citation:
+  type: article-journal
+  url: https://jhadachek.github.io/publication/plwg/
+  pdf-url: https://jhadachek.github.io/files/plwg.pdf
+abstract: |
+  Nonpoint source pollution from agriculture is the leading cause of nutrient pollution in the US. This paper addresses whether localized, farmer-led programs can cost-effectively reduce nonpoint source pollution by increasing the adoption of agricultural conservation practices. We study this in the context of an innovative program in Wisconsin that incentivizes farmers to take collective leadership of improving water quality in their local watersheds. Using a shift-share instrumental variables design, we find that a 10 percentage point increase in farmer participation in these programs leads to a 0.03 mg/L reduction (14%) in ambient phosphorus concentrations in local streams and rivers. We also show that this change causes an increase in the adoption of cover crops, conservation tillage, and more diverse crop rotations. Importantly, this localized approach achieves water quality and conservation improvements at a substantially lower cost than existing federal subsidy programs, demonstrating the potential for bottom-up approaches to address nonpoint source pollution in other contexts.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+**Status:** *Revise & Resubmit at American Journal of Agricultural Economics* (July 2025)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/plwg.pdf){.btn .btn-primary target="_blank"}
+:::

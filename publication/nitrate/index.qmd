@@ -1,0 +1,30 @@
+---
+title: "Benefits of Avoiding Nitrates in Drinking Water"
+date: 2025-05-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+categories:
+  - Water Economics
+  - Environmental Economics
+  - Health Economics
+citation:
+  type: article-journal
+  url: https://jhadachek.github.io/publication/nitrate/
+  pdf-url: https://jhadachek.github.io/files/nitrates.pdf
+abstract: |
+  Nitrate contamination of drinking water is a widespread concern and threatens human health. The magnitude of the health consequences depends on individuals' ability to avoid exposure. This paper uses an event-study framework to uncover avoidance behavior and infant mortality outcomes following public notifications required by the Safe Drinking Water Act. Using store-level scanner data, I estimate that consumers spend $4.5 million annually on bottled water to avoid nitrate-contaminated drinking water. This protective behavior leads to 20 avoided infant deaths per year or $223 million in monetized benefits. These results underscore the benefits and role of environmental information policy in inducing avoidance of environmental hazards.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+**Status:** *Working paper* (May 2025)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/nitrates.pdf){.btn .btn-primary target="_blank"}
+:::

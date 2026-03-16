@@ -1,0 +1,210 @@
+---
+title: "Jeffrey Hadachek"
+description: "Assistant Professor, Agricultural & Applied Economics, University of Wisconsin-Madison"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 style="text-align:center;"}
+![Jeffrey Hadachek](media/avatar.jpg){.profile-photo}
+
+**Jeffrey Hadachek**
+Assistant Professor
+[University of Wisconsin-Madison](https://aae.wisc.edu/faculty/hadachek/){target="_blank"}
+
+::: {.social-icons}
+<a href="mailto:hadachek@wisc.edu" title="Email"><i class="bi bi-envelope-fill"></i></a>
+<a href="https://twitter.com/hadachek" target="_blank" title="Twitter"><i class="bi bi-twitter"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=K9CTLFgAAAAJ&view_op=list_works" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<a href="files/cv.pdf" target="_blank" title="CV"><i class="bi bi-file-earmark-person-fill"></i></a>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-9}
+
+## Biography
+
+I am an Assistant Professor in the Ag and Applied Economics Department at the University of Wisconsin-Madison. I research issues at the intersection of agricultural and environmental economics. To date, my research focuses on water-related externalities from agricultural production and market power in the food supply chain.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+**Interests**
+
+- Agricultural Production
+- Water Economics
+- Supply Chains / IO
+:::
+::: {.g-col-12 .g-col-md-7}
+**Education**
+
+🎓 PhD in Ag and Resource Economics, 2023 — UC Davis
+🎓 BS in Agricultural Economics, 2018 — Kansas State University
+:::
+:::
+
+:::
+:::
+
+---
+
+## Publications {#research}
+
+::: {.pub-item}
+::: {.pub-title}
+[External Costs of Climate Adaptation in Common-Pool Groundwater Resources](publication/wells/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Ellen Bruno, Nick Hagerty, Katrina Jessoe
+:::
+::: {.pub-journal}
+*Journal of Public Economics*, 2026
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/wells.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jpubeco.2026.105602){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California](publication/nitrate_groundwater/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Pierre Merel, Scott Somerville
+:::
+::: {.pub-journal}
+*Journal of Environmental Economics and Management*, 2026
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/Nitrate_in_groundwater.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jeem.2026.103284){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[The Economics of Food Supply Chain Resilience](publication/resilience_arre/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Jill Hobbs
+:::
+::: {.pub-journal}
+*Annual Review of Resource Economics*, 2024
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1146/annurev-resource-100423-095119){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Market Structure and Resilience of Food Supply Chains Under Extreme Events](publication/supplychains/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Meilin Ma, Richard J. Sexton
+:::
+::: {.pub-journal}
+*American Journal of Agricultural Economics*, 2024
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/Supply%20Chains/Supply_Chain_Resilience.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](files/Supply%20Chains/AJAE_Code.zip){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1111/ajae.12393){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets](publication/feedgrains/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Tina Saitone, Richard J. Sexton, Sharon Raszap Skorbiansky, Suzanne Thornsbury, Anne Effland
+:::
+::: {.pub-journal}
+*USDA Economic Research Service*, 2022
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/feedgrains.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+---
+
+## Working Papers
+
+::: {.pub-item}
+::: {.pub-title}
+[Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement](publication/plwg/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Nicole Karwowski, Andrew Stevens
+:::
+::: {.pub-journal}
+July 2025 · *R&R at AJAE*
+:::
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Nonpoint source pollution from agriculture is the leading cause of nutrient pollution in the US. This paper addresses whether localized, farmer-led programs can cost-effectively reduce nonpoint source pollution by increasing the adoption of agricultural conservation practices. We study this in the context of an innovative program in Wisconsin that incentivizes farmers to take collective leadership of improving water quality in their local watersheds. Using a shift-share instrumental variables design, we find that a 10 percentage point increase in farmer participation in these programs leads to a 0.03 mg/L reduction (14%) in ambient phosphorus concentrations in local streams and rivers. We also show that this change causes an increase in the adoption of cover crops, conservation tillage, and more diverse crop rotations. Importantly, this localized approach achieves water quality and conservation improvements at a substantially lower cost than existing federal subsidy programs, demonstrating the potential for bottom-up approaches to address nonpoint source pollution in other contexts.</p>
+</details>
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/plwg.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Risk Management Externalities in Agrifood Supply Chains](publication/riskexternalities/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Meilin Ma
+:::
+::: {.pub-journal}
+July 2025 · *R&R at AJAE*
+:::
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Firms may under- or over-invest in risk management from the social planner's perspective, resulting in a negative externality on other economic agents in the supply chain. The externality of risk management provides justification for policy intervention and is particularly relevant for agrifood supply chains that constantly experience shocks and play a primary role in preventing major social losses from food insecurity. We build a theoretical model to characterize such externalities in US food supply chains where intermediary firms choose the quantity of output and the investment in managing risks. The model allows for flexible market structures and interdependence of risk management among firms. Risk interdependence captures the unique feature of biotic hazards (e.g., animal and plant diseases) in agrifood supply chains, where the effectiveness of a firm's risk management depends on peer firms' behavior. We offer novel insights on the role of risk interdependence in driving the externality in risk management under different market structures. We show that private firms invest less than the socially optimal level under perfect competition, but risk interdependence and market power introduce complex incentives in risk-reducing investment that shape the externality. The critical implications for the social efficiency of policy interventions are demonstrated via simulations based on the model and empirical literature on biotic hazards in agrifood markets.</p>
+</details>
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/RiskManagement.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Benefits of Avoiding Nitrates in Drinking Water](publication/nitrate/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**
+:::
+::: {.pub-journal}
+May 2025
+:::
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Nitrate contamination of drinking water is a widespread concern and threatens human health. The magnitude of the health consequences depends on individuals' ability to avoid exposure. This paper uses an event-study framework to uncover avoidance behavior and infant mortality outcomes following public notifications required by the Safe Drinking Water Act. Using store-level scanner data, I estimate that consumers spend $4.5 million annually on bottled water to avoid nitrate-contaminated drinking water. This protective behavior leads to 20 avoided infant deaths per year or $223 million in monetized benefits. These results underscore the benefits and role of environmental information policy in inducing avoidance of environmental hazards.</p>
+</details>
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](files/nitrates.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+---
+
+## Teaching
+
+**AAE 636: Applied Econometrics I**
+University of Wisconsin-Madison
+
+---
+
+## Contact {#contact}
+
+:::: {.contact-list}
+- 📧 [hadachek@wisc.edu](mailto:hadachek@wisc.edu)
+- 📞 [785 527 1107](tel:7855271107)
+- 📍 329 Henry Taylor Hall, Madison, WI 53706
+- 🐦 [@hadachek](https://twitter.com/hadachek){target="_blank"}
+::::

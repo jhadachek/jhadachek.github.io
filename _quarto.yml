@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jeffrey Hadachek"
+  description: "Assistant Professor, Agricultural & Applied Economics, UW-Madison"
+  site-url: https://jhadachek.github.io
+  favicon: images/icon_hu2b9d550591052f330a6833fa13bced51_16906874_32x32_fill_lanczos_center_3.png
+
+  navbar:
+    title: "Jeffrey Hadachek"
+    left:
+      - text: "CV"
+        href: files/cv.pdf
+        target: _blank
+      - text: "Research"
+        href: /#research
+      - text: "Extension/Outreach"
+        href: /wisconsinag/index.html
+        target: _blank
+      - text: "Contact"
+        href: /#contact
+    right:
+      - icon: twitter
+        href: https://twitter.com/hadachek
+        aria-label: Twitter
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?hl=en&user=K9CTLFgAAAAJ&view_op=list_works"
+        aria-label: Google Scholar
+
+  page-footer:
+    center: |
+      Jeffrey Hadachek · [hadachek@wisc.edu](mailto:hadachek@wisc.edu)
+
+  open-graph:
+    image: media/avatar.jpg
+  twitter-card:
+    image: media/avatar.jpg
+    creator: "@hadachek"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: false
+    google-scholar: true

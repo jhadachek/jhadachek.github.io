@@ -1,0 +1,31 @@
+---
+title: "Risk Management Externalities in Agrifood Supply Chains"
+date: 2025-07-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Meilin Ma
+categories:
+  - Food Supply Chains
+  - Industrial Organization
+  - Risk Management
+citation:
+  type: article-journal
+  url: https://jhadachek.github.io/publication/riskexternalities/
+  pdf-url: https://jhadachek.github.io/files/RiskManagement.pdf
+abstract: |
+  Firms may under- or over-invest in risk management from the social planner's perspective, resulting in a negative externality on other economic agents in the supply chain. The externality of risk management provides justification for policy intervention and is particularly relevant for agrifood supply chains that constantly experience shocks and play a primary role in preventing major social losses from food insecurity. We build a theoretical model to characterize such externalities in US food supply chains where intermediary firms choose the quantity of output and the investment in managing risks. The model allows for flexible market structures and interdependence of risk management among firms. Risk interdependence captures the unique feature of biotic hazards (e.g., animal and plant diseases) in agrifood supply chains, where the effectiveness of a firm's risk management depends on peer firms' behavior. We offer novel insights on the role of risk interdependence in driving the externality in risk management under different market structures. We show that private firms invest less than the socially optimal level under perfect competition, but risk interdependence and market power introduce complex incentives in risk-reducing investment that shape the externality. The critical implications for the social efficiency of policy interventions are demonstrated via simulations based on the model and empirical literature on biotic hazards in agrifood markets.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+**Status:** *Revise & Resubmit at American Journal of Agricultural Economics* (July 2025)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/RiskManagement.pdf){.btn .btn-primary target="_blank"}
+:::

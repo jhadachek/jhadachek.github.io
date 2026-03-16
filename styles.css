@@ -1,0 +1,157 @@
+/* UW-Madison cardinal red theme */
+:root {
+  --uw-red: #C5050C;
+}
+
+/* Primary color overrides */
+.navbar {
+  background-color: var(--uw-red) !important;
+  border-bottom: 2px solid #9b0000;
+}
+
+.navbar a,
+.navbar .nav-link,
+.navbar-title {
+  color: #fff !important;
+}
+
+.navbar .nav-link:hover {
+  color: rgba(255,255,255,0.85) !important;
+}
+
+a {
+  color: var(--uw-red);
+}
+
+a:hover {
+  color: #9b0000;
+}
+
+.btn-primary {
+  background-color: var(--uw-red);
+  border-color: var(--uw-red);
+}
+
+.btn-primary:hover {
+  background-color: #9b0000;
+  border-color: #9b0000;
+}
+
+.btn-outline-primary {
+  color: var(--uw-red);
+  border-color: var(--uw-red);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--uw-red);
+  border-color: var(--uw-red);
+  color: #fff;
+}
+
+/* Profile / about section */
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.social-icons a {
+  font-size: 1.4rem;
+  color: #555;
+  margin-right: 0.6rem;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: var(--uw-red);
+}
+
+/* Publication list items */
+.pub-item {
+  margin-bottom: 1.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.pub-item:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.pub-authors {
+  color: #555;
+  font-size: 0.92rem;
+}
+
+.pub-journal {
+  font-style: italic;
+  color: #444;
+  font-size: 0.92rem;
+}
+
+.pub-links {
+  margin-top: 0.3rem;
+}
+
+.pub-links a {
+  font-size: 0.82rem;
+  margin-right: 0.4rem;
+}
+
+/* Working papers — show abstract */
+details.abstract summary {
+  cursor: pointer;
+  color: var(--uw-red);
+  font-size: 0.85rem;
+  user-select: none;
+}
+
+details.abstract p {
+  font-size: 0.9rem;
+  color: #444;
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+
+/* Section headings */
+h2.section-title {
+  border-bottom: 2px solid var(--uw-red);
+  padding-bottom: 0.25rem;
+  margin-bottom: 1.2rem;
+  color: #222;
+}
+
+/* Publication detail page */
+.pub-abstract {
+  background: #f8f8f8;
+  border-left: 3px solid var(--uw-red);
+  padding: 0.8rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #333;
+  margin: 1.2rem 0;
+}
+
+/* Contact section */
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-list li {
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid #ddd;
+  color: #777;
+  font-size: 0.87rem;
+}

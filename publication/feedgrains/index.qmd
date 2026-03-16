@@ -1,0 +1,36 @@
+---
+title: "Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets"
+date: 2022-01-01
+author:
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+  - name: Tina Saitone
+  - name: Richard J. Sexton
+  - name: Sharon Raszap Skorbiansky
+  - name: Suzanne Thornsbury
+  - name: Anne Effland
+categories:
+  - Agricultural Markets
+  - Organic Agriculture
+  - Market Structure
+citation:
+  type: report
+  publisher: "USDA Economic Research Service"
+  url: https://jhadachek.github.io/publication/feedgrains/
+  pdf-url: https://jhadachek.github.io/files/feedgrains.pdf
+abstract: |
+  Even as organic products have become more widely available, most organic growers in the United States still participate in niche markets, with few buyers and sellers and few trades being executed at a given area or point in time, relative to conventional segments of the market. Despite an increase in both organic production and available information to support decision making, growers continue to face challenges related to the thinness of organic markets. This report examines organic dairy and beef markets, including major feed inputs, to assess the current competitive status of these markets. Specifically, in each market, this report considers factors fundamental to determining whether buyers and sellers can form long-term, mutually beneficial buyer/seller relationships that may limit thin market challenges that might otherwise arise.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+::: {.pub-abstract}
+{{< meta abstract >}}
+:::
+
+**Published by:** *USDA Economic Research Service*, 2022
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/feedgrains.pdf){.btn .btn-primary target="_blank"}
+:::
