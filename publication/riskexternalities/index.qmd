@@ -12,6 +12,8 @@ categories:
   - Risk Management
 citation:
   type: article-journal
+  container-title: "American Journal of Agricultural Economics"
+  doi: "10.1002/ajae.70091"
   url: https://jhadachek.github.io/publication/riskexternalities/
   pdf-url: https://jhadachek.github.io/files/RiskManagement.pdf
 abstract: |
@@ -20,9 +22,9 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-**Status:** *Accepted at American Journal of Agricultural Economics*
-
+**Published in:** *American Journal of Agricultural Economics*, 2026
 
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/RiskManagement.pdf){.btn .btn-primary target="_blank"}
+[DOI](https://doi.org/10.1002/ajae.70091){.btn .btn-outline-primary target="_blank"}
 :::

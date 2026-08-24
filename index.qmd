@@ -55,10 +55,11 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 **Jeffrey Hadachek**, Meilin Ma
 :::
 ::: {.pub-journal}
-*American Journal of Agricultural Economics*, forthcoming
+*American Journal of Agricultural Economics*, 2026
 :::
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](files/RiskManagement.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1002/ajae.70091){.btn .btn-sm .btn-outline-primary target="_blank"}
 :::
 :::
 
