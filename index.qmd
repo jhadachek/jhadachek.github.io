@@ -148,17 +148,17 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 
 ::: {.pub-item}
 ::: {.pub-title}
-[Farmer Led Conservation Programs and Nonpoint Source Pollution Abatement](publication/plwg/)
+[Farmer-Led Conservation Programs and Nonpoint Source Pollution Abatement](publication/plwg/)
 :::
 ::: {.pub-authors}
 **Jeffrey Hadachek**, Nicole Karwowski, Andrew Stevens
 :::
 ::: {.pub-journal}
-July 2025 · *R&R at AJAE*
+September 2026 · *R&R at AJAE*
 :::
 <details class="abstract">
 <summary>Abstract</summary>
-<p>Nonpoint source pollution from agriculture is the leading cause of nutrient pollution in the US. This paper addresses whether localized, farmer-led programs can cost-effectively reduce nonpoint source pollution by increasing the adoption of agricultural conservation practices. We study this in the context of an innovative program in Wisconsin that incentivizes farmers to take collective leadership of improving water quality in their local watersheds. Using a shift-share instrumental variables design, we find that a 10 percentage point increase in farmer participation in these programs leads to a 0.03 mg/L reduction (14%) in ambient phosphorus concentrations in local streams and rivers. We also show that this change causes an increase in the adoption of cover crops, conservation tillage, and more diverse crop rotations. Importantly, this localized approach achieves water quality and conservation improvements at a substantially lower cost than existing federal subsidy programs, demonstrating the potential for bottom-up approaches to address nonpoint source pollution in other contexts.</p>
+<p>Nonpoint source pollution from agriculture is the leading cause of nutrient pollution in the US. We investigate whether localized, farmer-led programs can cost-effectively reduce nonpoint source pollution by increasing the adoption of agricultural conservation practices. We study this in the context of an innovative program in Wisconsin that incentivizes farmers to take collective leadership of improving water quality in their local watersheds. Using a shift-share instrumental variables design, we find that a 10 percentage point increase in a subwatershed's participating acreage in these programs leads to a 0.03 mg/L reduction (14%) in ambient phosphorus concentrations in local streams and rivers. We also show that a higher share of participating acreage in local watershed programs causes an increase in the adoption of cover crops, conservation tillage, and more diverse crop rotations. Importantly, this localized approach achieves water quality and conservation improvements at a substantially lower cost than existing federal subsidy programs, demonstrating the potential for bottom-up approaches to address nonpoint source pollution in other contexts.</p>
 </details>
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](files/plwg.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
