@@ -154,7 +154,7 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 Dustin Frye, **Jeffrey Hadachek**
 :::
 ::: {.pub-journal}
-August 2026 · *Preliminary Conference Draft*
+August 2026
 :::
 <details class="abstract">
 <summary>Abstract</summary>

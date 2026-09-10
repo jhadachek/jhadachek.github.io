@@ -21,7 +21,7 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-**Status:** *Preliminary conference draft* (August 2026)
+**Status:** August 2026
 
 
 ::: {.pub-links}
