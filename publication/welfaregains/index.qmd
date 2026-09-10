@@ -1,0 +1,29 @@
+---
+title: "Welfare Gains from Market Integration Under Competing Land Uses"
+date: 2026-08-20
+author:
+  - name: Dustin Frye
+    url: https://dustindfrye.com
+    affiliation: University of Wisconsin-Madison
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+categories:
+  - Agricultural Production
+  - Land Use Economics
+citation:
+  type: article-journal
+  url: https://jhadachek.github.io/publication/welfaregains/
+  pdf-url: https://dustindfrye.com/files/WelfareGains.pdf
+abstract: |
+  The welfare gains from agricultural market integration are conventionally measured by the capitalization of market access into farmland values -- an aggregate measure that omits parcels converting to non-agricultural use, which exit the Census of Agriculture's sampling frame and render farmland values a lower-bound measure of welfare gains. Using the staggered rollout of the U.S. Interstate Highway System (1940-2002), we trace where the gains accrued. Farmland values rose about 11% after a highway arrived, masking a divergence between value and cultivated acreage: the least-suitable land was retained through a shift toward livestock, middle-suitability land lost crop acreage to conversion where development pressure bound, and the best land capitalized the development option into farmland value. Combining this heterogeneity with a Frechet productivity model and a minimum-distance GMM over development-pressure bins, we identify the parcels the aggregate omits and value them at observed developer bids at as much as $195-210 billion, concentrated on the high-development pressure fringe.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+**Status:** *Preliminary conference draft* (August 2026)
+
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](https://dustindfrye.com/files/WelfareGains.pdf){.btn .btn-primary target="_blank"}
+:::

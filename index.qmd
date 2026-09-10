@@ -148,6 +148,25 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 
 ::: {.pub-item}
 ::: {.pub-title}
+[Welfare Gains from Market Integration Under Competing Land Uses](publication/welfaregains/)
+:::
+::: {.pub-authors}
+Dustin Frye, **Jeffrey Hadachek**
+:::
+::: {.pub-journal}
+August 2026 · *Preliminary Conference Draft*
+:::
+<details class="abstract">
+<summary>Abstract</summary>
+<p>The welfare gains from agricultural market integration are conventionally measured by the capitalization of market access into farmland values &ndash; an aggregate measure that omits parcels converting to non-agricultural use, which exit the Census of Agriculture's sampling frame and render farmland values a lower-bound measure of welfare gains. Using the staggered rollout of the U.S. Interstate Highway System (1940&ndash;2002), we trace where the gains accrued. Farmland values rose about 11% after a highway arrived, masking a divergence between value and cultivated acreage: the least-suitable land was retained through a shift toward livestock, middle-suitability land lost crop acreage to conversion where development pressure bound, and the best land capitalized the development option into farmland value. Combining this heterogeneity with a Fr&eacute;chet productivity model and a minimum-distance GMM over development-pressure bins, we identify the parcels the aggregate omits and value them at observed developer bids at as much as $195&ndash;210 billion, concentrated on the high-development pressure fringe.</p>
+</details>
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](https://dustindfrye.com/files/WelfareGains.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
 [Farmer-Led Conservation Programs and Nonpoint Source Pollution Abatement](publication/plwg/)
 :::
 ::: {.pub-authors}
