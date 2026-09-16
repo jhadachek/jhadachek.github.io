@@ -76,6 +76,7 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](files/wells.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
 [DOI](https://doi.org/10.1016/j.jpubeco.2026.105602){.btn .btn-sm .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](https://github.com/jhadachek/wells-replication){.btn .btn-sm .btn-outline-primary target="_blank"}
 :::
 :::
 

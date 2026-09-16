@@ -30,4 +30,5 @@ abstract: |
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/wells.pdf){.btn .btn-primary target="_blank"}
 [DOI](https://doi.org/10.1016/j.jpubeco.2026.105602){.btn .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](https://github.com/jhadachek/wells-replication){.btn .btn-outline-primary target="_blank"}
 :::
