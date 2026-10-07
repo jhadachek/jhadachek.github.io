@@ -1,0 +1,31 @@
+---
+title: "Natural Disasters and U.S. Food Supply Chains"
+date: 2026-10-07
+author:
+  - name: Chengwei Fan
+  - name: Jeffrey Hadachek
+    url: https://jhadachek.github.io
+    affiliation: University of Wisconsin-Madison
+categories:
+  - Food Supply Chains
+  - Natural Disasters
+  - Climate
+citation:
+  type: article-journal
+  container-title: "Food Policy"
+  url: https://jhadachek.github.io/publication/naturaldisasters/
+  pdf-url: https://jhadachek.github.io/files/naturaldisasters.pdf
+abstract: |
+  This study quantifies how natural disasters affect U.S. food companies and evaluates which diversification strategies mitigate or intensify these effects. We compile a long panel from 1976 to 2023 that links county-level disaster incidence and damages to firm outcomes and supplier–customer relationships in the food sector. The analysis shows that hurricanes are the most consistently economically harmful natural disaster for food processing companies. A firm's geographical and business structures can mitigate the impact of these shocks. Less customer concentration, more international customer-supplier relationships, and more geographically dispersed branches within the U.S. are all factors associated with smaller effects of hurricanes on aggregate performance. The results are robust to alternative measures of disaster intensity, weighting by firm size, and excluding the COVID-19 period. Overall, the evidence highlights the vulnerability of food production networks to climate-related shocks and informs firm strategy and policy design aimed at strengthening supply-chain resilience.
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+**Accepted at:** *Food Policy*
+
+Chengwei Fan was an MS student in Agricultural and Applied Economics at the University of Wisconsin-Madison.
+
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/naturaldisasters.pdf){.btn .btn-primary target="_blank"}
+[{{< fa code >}} Code](https://github.com/Chengwei-F/Natural-Disasters-Food-Supply-Chains){.btn .btn-outline-primary target="_blank"}
+:::
