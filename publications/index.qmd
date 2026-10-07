@@ -1,0 +1,125 @@
+---
+title: "Publications"
+page-layout: full
+title-block-banner: false
+---
+
+[{{< fa arrow-left >}} Back to Research](/#research)
+
+:::: {.pub-compact}
+
+::: {.pub-item}
+::: {.pub-title}
+[Natural Disasters and U.S. Food Supply Chains](/publication/naturaldisasters/)
+:::
+::: {.pub-authors}
+Chengwei Fan\*, **Jeffrey Hadachek**
+:::
+::: {.pub-journal}
+*Food Policy*, forthcoming
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/naturaldisasters.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](https://github.com/Chengwei-F/Natural-Disasters-Food-Supply-Chains){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Risk Management Externalities in Agrifood Supply Chains](/publication/riskexternalities/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Meilin Ma
+:::
+::: {.pub-journal}
+*American Journal of Agricultural Economics*, 2026
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/RiskManagement.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1002/ajae.70091){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[External Costs of Climate Adaptation in Common-Pool Groundwater Resources](/publication/wells/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Ellen Bruno, Nick Hagerty, Katrina Jessoe
+:::
+::: {.pub-journal}
+*Journal of Public Economics*, 2026
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/wells.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jpubeco.2026.105602){.btn .btn-sm .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](https://github.com/jhadachek/wells-replication){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Land Use and Nitrate Concentrations in Groundwater: Evidence from Groundwater Wells in California](/publication/nitrate_groundwater/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Pierre Merel, Scott Somerville
+:::
+::: {.pub-journal}
+*Journal of Environmental Economics and Management*, 2026
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/Nitrate_in_groundwater.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.jeem.2026.103284){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[The Economics of Food Supply Chain Resilience](/publication/resilience_arre/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Jill Hobbs
+:::
+::: {.pub-journal}
+*Annual Review of Resource Economics*, 2024
+:::
+::: {.pub-links}
+[DOI](https://doi.org/10.1146/annurev-resource-100423-095119){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Market Structure and Resilience of Food Supply Chains Under Extreme Events](/publication/supplychains/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Meilin Ma, Richard J. Sexton
+:::
+::: {.pub-journal}
+*American Journal of Agricultural Economics*, 2024
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/Supply%20Chains/Supply_Chain_Resilience.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[{{< fa code >}} Code](/files/Supply%20Chains/AJAE_Code.zip){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1111/ajae.12393){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets](/publication/feedgrains/)
+:::
+::: {.pub-authors}
+**Jeffrey Hadachek**, Tina Saitone, Richard J. Sexton, Sharon Raszap Skorbiansky, Suzanne Thornsbury, Anne Effland
+:::
+::: {.pub-journal}
+*USDA Economic Research Service*, 2022
+:::
+::: {.pub-links}
+[{{< fa file-pdf >}} PDF](/files/feedgrains.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+:::
+:::
+
+::::
+
+<small>\* Former UW-Madison AAE MS student</small>

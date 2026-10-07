@@ -45,7 +45,7 @@ I am an Assistant Professor of Agricultural and Applied Economics at the Univers
 
 ---
 
-## Publications {#research}
+## Recent Publications {#research}
 
 ::: {.pub-item}
 ::: {.pub-title}
@@ -146,20 +146,7 @@ Chengwei Fan\*, **Jeffrey Hadachek**
 :::
 :::
 
-::: {.pub-item}
-::: {.pub-title}
-[Organic Feed Grains and Livestock: Factors That Influence Outcomes in Thinly Traded Markets](publication/feedgrains/)
-:::
-::: {.pub-authors}
-**Jeffrey Hadachek**, Tina Saitone, Richard J. Sexton, Sharon Raszap Skorbiansky, Suzanne Thornsbury, Anne Effland
-:::
-::: {.pub-journal}
-*USDA Economic Research Service*, 2022
-:::
-::: {.pub-links}
-[{{< fa file-pdf >}} PDF](files/feedgrains.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
-:::
-:::
+[{{< fa arrow-right >}} View all publications](publications/){.btn .btn-sm .btn-outline-primary}
 
 ---
 

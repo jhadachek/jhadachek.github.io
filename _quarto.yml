@@ -19,6 +19,8 @@ website:
         target: _blank
       - text: "Research"
         href: /#research
+      - text: "Publications"
+        href: /publications/
       - text: "Extension/Outreach"
         href: /wisconsinag/
       - text: "Contact"
