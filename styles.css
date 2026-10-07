@@ -155,3 +155,30 @@ h2.section-title {
   color: #777;
   font-size: 0.87rem;
 }
+
+/* Compact full publications list */
+.pub-compact .pub-item {
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.pub-compact .pub-title p,
+.pub-compact .pub-links p {
+  margin: 0;
+}
+
+.pub-compact .pub-authors,
+.pub-compact .pub-journal {
+  display: inline;
+}
+
+.pub-compact .pub-authors p,
+.pub-compact .pub-journal p {
+  display: inline;
+  margin: 0;
+}
+
+.pub-compact .pub-journal::before {
+  content: " · ";
+  font-style: normal;
+}
