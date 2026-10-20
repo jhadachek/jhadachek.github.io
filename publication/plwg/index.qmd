@@ -21,7 +21,7 @@ abstract: |
 
 [{{< fa arrow-left >}} Back to Research](/#research)
 
-**Status:** *Revise & Resubmit at American Journal of Agricultural Economics* (September 2026)
+**Status:** *Conditionally Accepted at American Journal of Agricultural Economics*
 
 
 ::: {.pub-links}
