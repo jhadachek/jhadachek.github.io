@@ -13,6 +13,7 @@ categories:
 citation:
   type: article-journal
   container-title: "Food Policy"
+  doi: "10.1016/j.foodpol.2026.103209"
   url: https://jhadachek.github.io/publication/naturaldisasters/
   pdf-url: https://jhadachek.github.io/files/naturaldisasters.pdf
 abstract: |
@@ -27,5 +28,6 @@ Chengwei Fan was an MS student in Agricultural and Applied Economics at the Univ
 
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/naturaldisasters.pdf){.btn .btn-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.foodpol.2026.103209){.btn .btn-outline-primary target="_blank"}
 [{{< fa code >}} Code](https://github.com/Chengwei-F/Natural-Disasters-Food-Supply-Chains){.btn .btn-outline-primary target="_blank"}
 :::

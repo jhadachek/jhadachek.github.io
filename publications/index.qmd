@@ -20,6 +20,7 @@ Chengwei Fan\*, **Jeffrey Hadachek**
 :::
 ::: {.pub-links}
 [{{< fa file-pdf >}} PDF](/files/naturaldisasters.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[DOI](https://doi.org/10.1016/j.foodpol.2026.103209){.btn .btn-sm .btn-outline-primary target="_blank"}
 [{{< fa code >}} Code](https://github.com/Chengwei-F/Natural-Disasters-Food-Supply-Chains){.btn .btn-sm .btn-outline-primary target="_blank"}
 :::
 :::
